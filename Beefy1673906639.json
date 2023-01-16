@@ -2,7 +2,7 @@
   "name": "Beefy",
   "traits": "",
   "tags": [],
-  "level": 1,
+  "level": 20,
   "specials": [],
   "morespells": [],
   "alignment": "ce",
@@ -22,7 +22,7 @@
     "note": ""
   },
   "savenote": "",
-  "creature": "Ork",
+  "creature": "",
   "speed": "",
   "imgurl": "",
   "spelltype": "",
