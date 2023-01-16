@@ -1,5 +1,5 @@
 {
-  "name": "Beefy",
+  "name": "Beefy2",
   "traits": "",
   "tags": [],
   "level": 1,
@@ -80,7 +80,7 @@
     "note": ""
   },
   "perception": {
-    "value": "",
+    "value": "7",
     "benchmark": "moderate",
     "note": ""
   },
